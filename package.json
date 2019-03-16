@@ -1,0 +1,19 @@
+{
+  "name": "cal-coin",
+  "version": "1.0.0",
+  "description": "CalCoin is an experimental ERC20 Token on the Ethereum blockchain",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.2.0",
+    "truffle-hdwallet-provider": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin Oh",
+  "license": "MIT"
+}

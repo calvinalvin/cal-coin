@@ -1,3 +1,6 @@
+.envrc
+*.swp
+
 # Logs
 logs
 *.log
